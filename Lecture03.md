@@ -7,14 +7,14 @@
 1. APサーバーの名前とバージョン  
 Puma version: 5.6.5
 2. 動作確認  
-![動作中](%E5%8B%95%E4%BD%9C%E4%B8%AD.png)  
+![動作中](Lecture03-1.png)  
 3. 動作停止確認  
-![動作停止](%E5%8B%95%E4%BD%9C%E5%81%9C%E6%AD%A2.png)  
+![動作停止](Lecture03-2.png)  
 ### DBサーバーについて  
 1. DBサーバーの名前とバージョン  
 MySQL Server: Ver 8.0.35  
 2. MySQLを停止  
-![MySQL停止](MySQL%E5%81%9C%E6%AD%A2.png)  
+![MySQL停止](Lecture03-3.png)  
 3. Railsの構成管理ツール  
 bundle  
 ### 学んだこと  
